@@ -1,0 +1,13 @@
+# Sobre mim
+
+- 👋 ola, eu sou a @anaamaojao, estudante do primeiro ano 
+- 👀 meu emaill de contato é ana.morais.sousa@escola.pr.gov.br ...
+- 🌱 eu estou aprendendo a programar as linguagens
+-  I'm currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+anaamaojao/anaamaojao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
