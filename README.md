@@ -1,6 +1,6 @@
 # Sobre mim
 
-- 👋 Ola, eu sou a @anaamaojao, estudante do primeiro ano 
+- 👋 Olá, eu sou a @anaamaojao, estudante do primeiro ano 
 - 👀 Meu emaill de contato é ana.morais.sousa@escola.pr.gov.br ...
 - 🌱 Eu estou aprendendo a programar as linguagens
 
